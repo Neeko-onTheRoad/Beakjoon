@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.mscz": "plaintext",
+        "*.smi": "xsl",
+        "*.lg": "cpp",
+        "ostream": "cpp"
+    }
+}

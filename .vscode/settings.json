@@ -3,6 +3,7 @@
         "*.mscz": "plaintext",
         "*.smi": "xsl",
         "*.lg": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "iostream": "cpp"
     }
 }
